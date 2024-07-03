@@ -4,6 +4,7 @@ Custom Assembler and Simulator for ISA
 
 This project implements a custom assembler and simulator for a specific ISA (Instruction Set Architecture) using Python. The assembler translates assembly code into machine code, while the simulator executes the generated machine code.
 Features
+
 Assembler
 
     Handles assembly instructions, labels, and variables.
